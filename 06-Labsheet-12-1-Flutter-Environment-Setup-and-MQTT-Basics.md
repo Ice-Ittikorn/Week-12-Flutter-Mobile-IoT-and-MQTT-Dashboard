@@ -368,6 +368,8 @@ mosquitto_pub -h 127.0.0.1 -p 1883 -t "test/broker/echo" -m "Echo response from 
 ```
 * ตรวจสอบว่าในช่อง Logs ของ Flutter App แสดงข้อความที่ได้รับอย่างถูกต้อง
 
+<img width="1512" height="982" alt="ภาพถ่ายหน้าจอ 2569-10-26 เวลา 02 32 48" src="https://github.com/user-attachments/assets/a7ba9548-6a76-4b87-b4cb-cb24ae47d53a" />
+
 ---
 
 ## 4. คำถามท้ายการทดลอง (Review Questions)
